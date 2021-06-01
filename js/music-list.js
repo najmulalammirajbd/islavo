@@ -11,41 +11,24 @@
 
 let allMusic = [
   {
-    name: "Harley Bird - Home",
-    artist: "Jordan Schor",
+    name: "Muhammad Rasul (SM:)",
+    artist: "Sadikur Rahman & Mushir Alom Mijan",
     img: "music-1",
     src: "music-1"
   },
   {
-    name: "Ikson Anywhere – Ikson",
-    artist: "Audio Library",
+    name: "Paina Khuja Sur",
+    artist: "Sheikh Afzal Hussain Sadi",
     img: "music-2",
     src: "music-2"
   },
   {
-    name: "Beauz & Jvna - Crazy",
-    artist: "Beauz & Jvna",
+    name: "Rasul Namer",
+    artist: "Sheikh Afzal Hussain Sadi",
     img: "music-3",
     src: "music-3"
   },
-  {
-    name: "Hardwind - Want Me",
-    artist: "Mike Archangelo",
-    img: "music-4",
-    src: "music-4"
-  },
-  {
-    name: "Jim - Sun Goes Down",
-    artist: "Jim Yosef x Roy",
-    img: "music-5",
-    src: "music-5"
-  },
-  {
-    name: "Lost Sky - Vision NCS",
-    artist: "NCS Release",
-    img: "music-6",
-    src: "music-6"
-  },
+
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
