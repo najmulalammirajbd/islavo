@@ -12,7 +12,7 @@
 let allMusic = [
   {
     name: "Muhammad Rasul (SM:)",
-    artist: "Sadikur Rahman & Mushir Alom Mijan",
+    artist: "Sadikur Rahman , Mushir Alom Mijan",
     img: "music-1",
     src: "music-1"
   },
@@ -28,7 +28,12 @@ let allMusic = [
     img: "music-3",
     src: "music-3"
   },
-
+  {
+    name: "Marhaba Ya Mustafa",
+    artist: "Mushir Alom Mijan , Sayeem Ahmod Emon",
+    img: "music-4",
+    src: "music-4"
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
