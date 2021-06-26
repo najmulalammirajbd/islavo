@@ -75,10 +75,10 @@ body{
   color: var(--lightblack);
 }
 .song-details .name{
-  font-size: 9px;
+  font-size: 7px;
 }
 .song-details .artist{
-  font-size: 9px;
+  font-size: 7px;
   opacity: 0.9;
   line-height: 35px;
 }
