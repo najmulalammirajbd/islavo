@@ -11,6 +11,12 @@
 
 let allMusic = [
   {
+    name: "Mera Pyara Nabi",
+    artist: "Mamunur Rashid",
+    img: "music-0",
+    src: "music-0"
+  },
+  {
     name: "Muhammad Rasul (SM:)",
     artist: "Sadikur Rahman , Mushir Alom Mijan",
     img: "music-1",
