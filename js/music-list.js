@@ -11,6 +11,12 @@
 
 let allMusic = [
   {
+    name: "Tomar Premer Sur",
+    artist: "Mamunur Rashid",
+    img: "music-00",
+    src: "music-00"
+  },
+  {
     name: "Mera Pyara Nabi",
     artist: "Mamunur Rashid",
     img: "music-0",
