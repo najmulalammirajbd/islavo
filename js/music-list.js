@@ -94,6 +94,12 @@ let allMusic = [
     img: "music-12",
     src: "music-12"
   },
+  {
+    name: "Shorger Shuk Chai Na ",
+    artist: "Sheikh Afzal Hussain Sadi",
+    img: "music-12",
+    src: "music-13"
+  },
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
