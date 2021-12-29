@@ -77,7 +77,7 @@ let allMusic = [
     src: "music-9"
   },
   {
-    name: "Tumer Dedar Cheya",
+    name: "Tomar Dedar Cheya",
     artist: "Sheikh Afzal Hussain Sadi",
     img: "music-10",
     src: "music-10"
@@ -101,7 +101,7 @@ let allMusic = [
     src: "music-13"
   },
   {
-    name: "Gai Tumare Shan ",
+    name: "Gai Tomari Shan ",
     artist: "Abdullah Al Farhan",
     img: "music-12",
     src: "music-14"
