@@ -29,7 +29,7 @@ let allMusic = [
     src: "music-1"
   },
   {
-    name: "Paina Khuja Sur",
+    name: "Paina Khuje Shur",
     artist: "Sheikh Afzal Hussain Sadi",
     img: "music-2",
     src: "music-2"
