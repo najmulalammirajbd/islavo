@@ -23,7 +23,7 @@ let allMusic = [
     src: "music-0"
   },
   {
-    name: "Muhammad Rasul (SM:)",
+    name: "Muhammad Rasul",
     artist: "Sadikur Rahman , Mushir Alom Mijan",
     img: "music-1",
     src: "music-1"
