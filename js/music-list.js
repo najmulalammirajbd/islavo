@@ -11,6 +11,12 @@
 
 let allMusic = [
   {
+    name: "Mone Lage Bhoy Go Allah",
+    artist: "Sheikh Afzal Hussain Sadi",
+    img: "music-000",
+    src: "music-000"
+  },
+  {
     name: "Tomar Premer Sur",
     artist: "Mamunur Rashid",
     img: "music-00",
