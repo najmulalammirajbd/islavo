@@ -52,18 +52,18 @@ let allMusic = [
     img: "music-4",
     src: "music-4"
   },
-  {
-    name: "Meherban",
-    artist: "Zakaria Ahmad Shahan",
-    img: "music-5",
-    src: "music-5"
-  },
-  {
-    name: "Allahu Allah",
-    artist: "Anwar Hussain Gulzar",
-    img: "music-6",
-    src: "music-6"
-  },
+  // {
+  //   name: "Meherban",
+  //   artist: "Zakaria Ahmad Shahan",
+  //   img: "music-5",
+  //   src: "music-5"
+  // },
+  // {
+  //   name: "Allahu Allah",
+  //   artist: "Anwar Hussain Gulzar",
+  //   img: "music-6",
+  //   src: "music-6"
+  // },
   {
     name: "Satto Pather Disa",
     artist: "Sheikh Afzal Hussain Sadi",
